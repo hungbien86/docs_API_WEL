@@ -1,15 +1,3 @@
 # Table of contents
 
-* [docs\_API\_WEL](README.md)
-* [test](test.md)
-* [test2](test2/README.md)
-  * [GetNodeInfo](test2/getnodeinfo.md)
-  * [GetChainParameters](test2/getchainparameters.md)
-  * [GetBlockBalance\_warning](test2/getblockbalance\_warning.md)
-  * [GetAssetIssueByAccount](test2/getassetissuebyaccount.md)
-  * [GetAssetIssueById](test2/getassetissuebyid.md)
-  * [GetAssetIssueList](test2/getassetissuelist.md)
-  * [GetPaginatedAssetIssueList](test2/getpaginatedassetissuelist.md)
-  * [TransferAsset](test2/transferasset.md)
-  * [CreateAssetIssue](test2/createassetissue.md)
-  * [ClearAbi](test2/clearabi.md)
+* [API List](README.md)
